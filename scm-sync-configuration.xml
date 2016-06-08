@@ -6,6 +6,6 @@
   <displayStatus>true</displayStatus>
   <commitMessagePattern>[message]</commitMessagePattern>
   <manualSynchronizationIncludes>
-    <include>plugins/**</include>
+    <include>credentials.xml</include>
   </manualSynchronizationIncludes>
 </hudson.plugins.scm__sync__configuration.ScmSyncConfigurationPlugin>
